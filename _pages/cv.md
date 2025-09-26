@@ -24,6 +24,12 @@ Research
   
   Received the award to support research into robust optimization algorithms with Professor Johanes Royset. Work includes designing fault-tolerant machine learning loss functions and Rockafellians to help identify credit fraud with noisy or overcomplete datasets.
 
+* **USC Math Department, Student Researcher** — *Dec 2024 – Present, Los Angeles, CA*
+  * Conducted research into risk averse deep Q learning architectures for autonomous trading algorithms. Achieved 13% growth performance during back testing. 
+  * Formulated a closed loop stochastic control model of oil pricing and production with merton jump diffusion. Built numerical solver for partial integro differential systems. Worked under Professor Jianfeng Zhang. 
+  * Developed novel algorithms for value function estimation in blind multi-stage scoring auctions under Profesor Detlof Winterfeld. 
+  * Conducting research into transformer models for attention based asset allocation under Professor Austin Pollok
+
 * **Institute of Pure and Applied Mathematics (IPAM), Quantum Algorithms Researcher** — *Jun 2024 – Present, Los Angeles, CA*
   
   Conducting research with Dr. Jeff Marshal and Dr. Namit Anand at NASA Ames to develop efficient algorithms for the classical simulation of high-depth noisy quantum circuits. Work included high performance simulation using multiprocessing and CUDA. Achieved the only practically situatable noisy quantum circuit of depth 10,000 (700x current state of the art).
@@ -120,16 +126,15 @@ Skills
 
 Awards and Honors
 ======
-* **2025** Capital One Fellow in AI & Finance  
-* **2024** Annenberg Fellow, USC  
-* **2024** & 2023 AMTA All-American (Top 0.5%)  
-* **2023** AMTA National Champion  
-* **2022** UCI Hackathon – Best AI Application  
-* **2022** AMTA National Championship (2nd)
-* **2021** AMTA National Championship (2nd)
-* **2021** Accenture Case Competition – 2nd Place  
-* **2020** National Speech and Debate Association All-American (Top 2%)
-* **2019** California State Legislature Certificate of Recognition for Performance at the Conference on National Affairs
-* **2019** SoCalGas Energy Award
-* **2018** ASU Walton Sustainability Award
-* **2018** PECG James E.Roberts Award
+* **2025 Capital One Fellow in AI & Finance**: This fellowship recognizes outstanding achievement in the fields of artificial intelligence and finance.
+* **2024 Anneberg Fellow at USC**: This prestigious fellowship is awarded to top graduate students at the University of Southern California.
+* **2024 IPAM REU Recipient**: Accepted as a Researcher to IPAM's REU program at UCLA. Aceptence rate is 3%.
+* **2024,2023 American Mock Trial Association All-American** (Top 0.5%): This award recognizes an individual's exceptional performance and skill in a national mock trial competition.
+* **2023 American Mock Trial Association National Champion**: This honor is awarded to the top team in the U.S of 700 universities. 
+* **2022 UCI Hackathon Best AI Application**: This award is given for work in NLP news media bias detection. Developed app with open sourced auto-encoder BERT. 
+* **2022,2021 American Mock Trial Association 2nd & 3rd  Place (National)**
+* **2021 Accenture Case Competition 2nd Place**: Was awarded for proposing business solution for healthcare startups.  
+* **2019 California State Legislature Certificate of Recognition**: Was awarded for research project into sports diplomacy programs. 
+* **2019 SoCalGas Energy Award**:  Was awarded for research into acid rain resistent material coatings. 
+* **2018 ASU Walton Sustainability Award**: Was awarded for research into developing carbon sequestering concrete.
+* **2018 PECG James E. Roberts Award**: Was awarded for research into developing carbon sequestering concrete.
