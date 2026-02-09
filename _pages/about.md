@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD Student in Industrial and Systems Engineering at the University of Southern California, with broad research interests in mathematical finance, stochastic PDEs, mean-field games, robust machine learning, and quantum computing. 
+I'm a PhD Student in Industrial and Systems Engineering at the University of Southern California, with broad research interests in value-aware optimization, mathematical finance, dynamic games, robust machine learning, and quantum computing. 
 
 
 <p align="center">
