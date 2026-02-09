@@ -13,7 +13,7 @@ Education
 ======
 * **Ph.D. in Industrial and Systems Engineering** (Concentration in Optimization), University of Southern California, *Expected 2028*
   * Annenberg Fellow, QuantSC
-* **M.S. in Mathematical Finance**, University of Southern California, *Expected 2026*
+* **M.S. in Mathematical Finance**, University of Southern California, *Expected 2027*
 * **B.S. in Mathematics**, University of California, Los Angeles, 2020–2024
   * 8x Dean’s Honor List, UCLA Mock Trial Team, Data Science Union
 
@@ -22,13 +22,13 @@ Research
 
 * **Capital One, Research Fellow** — *Dec 2024 – Present, Los Angeles, CA*
   
-  Received the award to support research into robust optimization algorithms with Professor Johanes Royset. Work includes designing fault-tolerant machine learning loss functions and Rockafellians to help identify credit fraud with noisy or overcomplete datasets.
+  Received award to support research with Prof. Johannes Royset. Designing fault-tolerant ML loss functions and graph-based algorithms for optimal change-point detection and attribution, emphasizing built-in explainability.
 
 * **USC Math Department, Student Researcher** — *Dec 2024 – Present, Los Angeles, CA*
   * Conducted research into risk averse deep Q learning architectures for autonomous trading algorithms. Achieved 13% growth performance during back testing. 
   * Formulated a closed loop stochastic control model of oil pricing and production with merton jump diffusion. Built numerical solver for partial integro differential systems. Worked under Professor Jianfeng Zhang. 
   * Developed novel algorithms for value function estimation in blind multi-stage scoring auctions under Profesor Detlof Winterfeld. 
-  * Conducting research into transformer models for attention based asset allocation under Professor Austin Pollok
+  * Conducting research into mixture of expert models for attention based asset allocation under Professor Austin Pollok
 
 * **Institute of Pure and Applied Mathematics (IPAM), Quantum Algorithms Researcher** — *Jun 2024 – Present, Los Angeles, CA*
   
@@ -40,7 +40,7 @@ Research
 
 * **Red Hen Labs, Optimal Control Researcher** — *Mar 2023 – May 2024, Los Angeles, CA*
   
-  Research with Professor Francis Stein involving the use of model predictive control (MPC) with cognition constraints to simulate prospection. Work includes Python implementation of MPC systems and cognitive science data fitting.
+  Model predictive control with cognition constraints; Python MPC implementations; quantum decision-making models and optimal control models for biological systems, trust-based markets, and value-aware optimization.
 
 * **KAUST, NUMPDE Lab, Mixed Finite Elements Researcher** — *Apr 2023 – Jul 2023, Jeddah, Saudi Arabia*
   
@@ -115,8 +115,14 @@ Talks
 {% endfor %}</ul>
 
 
-Skills
+Service \& Skills
 ======
+* **Leadership:** Founder & VP USC INFORMS, Viterbi Graduate Senator
+* **Organizations:** INFORMS, SIAM, EAAMO  
+* **Reviewer:** ICML, Cognitive Science Society  
+* **Technologies:** Python, C++, PyTorch, TensorFlow, Julia, SQL  
+
+* **Languages:** English (Native), Arabic (Fluent)
 * **Python:** (NumPy, SciPy, PyTorch, CVXPY, Dask, CUDA)
 * **Optimization:** Convex, Stochastic, Mixed-Integer, MPC
 * **Machine Learning:** DRL, NLP, Clustering, Topic Modeling
@@ -126,6 +132,7 @@ Skills
 
 Awards and Honors
 ======
+* **2026 National Science Foundation Operations Research & Artificial Intelligence Fellow**: 90k fellowship which supports PhD students working at the intersection of OR and AI.
 * **2025 Capital One Fellow in AI & Finance**: This fellowship recognizes outstanding achievement in the fields of artificial intelligence and finance.
 * **2024 Anneberg Fellow at USC**: This prestigious fellowship is awarded to top graduate students at the University of Southern California.
 * **2024 IPAM REU Recipient**: Accepted as a Researcher to IPAM's REU program at UCLA. Aceptence rate is 3%.
