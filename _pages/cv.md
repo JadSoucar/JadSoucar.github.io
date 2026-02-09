@@ -115,7 +115,7 @@ Talks
 {% endfor %}</ul>
 
 
-Service \& Skills
+Service & Skills
 ======
 * **Leadership:** Founder & VP USC INFORMS, Viterbi Graduate Senator
 * **Organizations:** INFORMS, SIAM, EAAMO  
