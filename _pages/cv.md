@@ -132,8 +132,8 @@ Service & Skills
 
 Awards and Honors
 ======
-* **2026 National Science Foundation Operations Research & Artificial Intelligence Fellow**: 90k fellowship which supports PhD students working at the intersection of OR and AI.
-* **2025 Capital One Fellow in AI & Finance**: This fellowship recognizes outstanding achievement in the fields of artificial intelligence and finance.
+* **2026 National Science Foundation Operations Research & Artificial Intelligence Fellow**: 200k fellowship which supports PhD students working at the intersection of OR and AI.
+* **2025 Capital One Fellow in AI & Finance**: 100k award which recognizes outstanding achievement in the fields of artificial intelligence and finance.
 * **2024 Anneberg Fellow at USC**: This prestigious fellowship is awarded to top graduate students at the University of Southern California.
 * **2024 IPAM REU Recipient**: Accepted as a Researcher to IPAM's REU program at UCLA. Aceptence rate is 3%.
 * **2024,2023 American Mock Trial Association All-American** (Top 0.5%): This award recognizes an individual's exceptional performance and skill in a national mock trial competition.
