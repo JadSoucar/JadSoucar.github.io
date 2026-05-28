@@ -1,0 +1,14 @@
+---
+title: "Psuedo-Data Injections for CLO Bandit Problems"
+collection: publications
+category: manuscripts
+permalink: /publication/2026-05-11-CLOBandit
+excerpt: 'Contextual linear optimization (CLO) with bandit feedback is a class of CLO problems where only the costs of historical actions are observable. Finding an optimal decision making policy in this setting suffers from the fundamental challenge that real-world data often lacks coverage over the action space, making the full cost vector unidentifiable with the data available. A common remedy is to apply regularization to ensures stability of the learning problem. We show that this approach admits an alternative interpretation as a specific form of pseudo-data injection where synthetic data is added to induce coverage. This perspective suggests a broader question regarding how arbitrary pseudo-data can be injected when prior beliefs about the environment or data collection process are available. We propose two methods of pseudo-data injection that reflect structured beliefs about the underlying cost distribution or the data collection process, and show that regularization is a special case. We provide regret bounds for policies learned using post-injection datasets, which highlights how data injection strategies to repair coverage impact downstream decision quality. We conclude with numerical experiments demonstrating how policy regret behaves depending on veracity of prior beliefs, and under what regimes our methods outperform regularization.'
+date: 2026-05-11
+#venue: 'Journal 1'
+#slidesurl: 'http://academicpages.github.io/files/QuantumNoise_Slides.pdf'
+paperurl: 'http://JadSoucar.github.io/files/data_injections_soucar_edmonds.pdf'
+#bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
+#citation: 'Jad Soucar, Ninaad Surana. (2024). &quot;Autonomous Trading Using Deep Q Learning &quote;'
+---
+Contextual linear optimization (CLO) with bandit feedback is a class of CLO problems where only the costs of historical actions are observable. Finding an optimal decision making policy in this setting suffers from the fundamental challenge that real-world data often lacks coverage over the action space, making the full cost vector unidentifiable with the data available. A common remedy is to apply regularization to ensures stability of the learning problem. We show that this approach admits an alternative interpretation as a specific form of pseudo-data injection where synthetic data is added to induce coverage. This perspective suggests a broader question regarding how arbitrary pseudo-data can be injected when prior beliefs about the environment or data collection process are available. We propose two methods of pseudo-data injection that reflect structured beliefs about the underlying cost distribution or the data collection process, and show that regularization is a special case.

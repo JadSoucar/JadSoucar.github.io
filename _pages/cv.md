@@ -117,9 +117,9 @@ Talks
 
 Service & Skills
 ======
-* **Leadership:** Founder & VP USC INFORMS, Viterbi Graduate Senator
+* **Leadership:** Founder & VP USC INFORMS, Viterbi Graduate Senator, INFORMS Subdivision Council Member
 * **Organizations:** INFORMS, SIAM, EAAMO  
-* **Reviewer:** ICML, Cognitive Science Society  
+* **Reviewer:** ICML, NeurIPS, Cognitive Science Society
 * **Technologies:** Python, C++, PyTorch, TensorFlow, Julia, SQL  
 
 * **Languages:** English (Native), Arabic (Fluent)
@@ -132,6 +132,7 @@ Service & Skills
 
 Awards and Honors
 ======
+* **2026 AI-Score**: Was selected to participate in Columbia & University of Illinois Urbana Champaign's fully funded School of Artificial Intelligence School for Computer Science and Operations Research Education.
 * **2026 National Science Foundation Operations Research & Artificial Intelligence Fellow**: 200k fellowship which supports PhD students working at the intersection of OR and AI.
 * **2025 Capital One Fellow in AI & Finance**: 100k award which recognizes outstanding achievement in the fields of artificial intelligence and finance.
 * **2024 Anneberg Fellow at USC**: This prestigious fellowship is awarded to top graduate students at the University of Southern California.
