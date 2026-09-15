@@ -19,50 +19,38 @@ Education
 
 Research
 ======
+* **NSF, Operations Research and AI (ORAI) Fellow** — *Feb 2026 – Present, Los Angeles, CA*
+  Convex relaxations of integer programs - Integer distributionally robust optimization - Decision Focused Learning
 
-* **Capital One, Research Fellow** — *Dec 2024 – Present, Los Angeles, CA*
-  
-  Received award to support research with Prof. Johannes Royset. Designing fault-tolerant ML loss functions and graph-based algorithms for optimal change-point detection and attribution, emphasizing built-in explainability.
+* **Capital One, Research Fellow** — *Dec 2024 – May 2026, Los Angeles, CA*
+  Mixed Integer Programming - Tight Lagrangian Relaxations - Multi Touch Attribution
 
-* **USC Math Department, Student Researcher** — *Dec 2024 – Present, Los Angeles, CA*
-  * Conducted research into risk averse deep Q learning architectures for autonomous trading algorithms. Achieved 13% growth performance during back testing. 
-  * Formulated a closed loop stochastic control model of oil pricing and production with merton jump diffusion. Built numerical solver for partial integro differential systems. Worked under Professor Jianfeng Zhang. 
-  * Developed novel algorithms for value function estimation in blind multi-stage scoring auctions under Profesor Detlof Winterfeld. 
-  * Conducting research into mixture of expert models for attention based asset allocation under Professor Austin Pollok
-
-* **Institute of Pure and Applied Mathematics (IPAM), Quantum Algorithms Researcher** — *Jun 2024 – Present, Los Angeles, CA*
-  
-  Conducting research with Dr. Jeff Marshal and Dr. Namit Anand at NASA Ames to develop efficient algorithms for the classical simulation of high-depth noisy quantum circuits. Work included high performance simulation using multiprocessing and CUDA. Achieved the only practically situatable noisy quantum circuit of depth 10,000 (700x current state of the art).
-
-* **UCLA MFG Lab, Mean Field Games Researcher** — *Jun 2023 – Jun 2024, Los Angeles, CA*
-  
-  Research under Professor Wilfrid Gangbo on a multi-population mean field game model of inter-bank lending to study the relationship between different population-risk profiles and system failure.
+* **Institute of Pure and Applied Mathematics (IPAM), Quantum Algorithms Researcher** — *Jun 2024 – August 2024, Los Angeles, CA*
+  Research in Industrial Projects (RIPS) - In Collaboration with NASA Ames - Classical Simulation of Quantum Circuits - Modeling Quantum Kraus Noise
 
 * **Red Hen Labs, Optimal Control Researcher** — *Mar 2023 – May 2024, Los Angeles, CA*
+  * Model Predictive Control - Quantum Decision Making in Protists - Modeling Trust Based Market Places
   
-  Model predictive control with cognition constraints; Python MPC implementations; quantum decision-making models and optimal control models for biological systems, trust-based markets, and value-aware optimization.
-
 * **KAUST, NUMPDE Lab, Mixed Finite Elements Researcher** — *Apr 2023 – Jul 2023, Jeddah, Saudi Arabia*
-  
-  Worked under Professor Daniele Boffi on the numerical approximation of PDEs using mixed finite element methods. Developed a fictitious domain formulation with distributed Lagrange multipliers for fluid-structure interaction problems, and compiled a standard Python library.
+  - Numerical approximation of PDEs using mixed finite element methods - Fluid structure interaction problems
 
 * **UCLA Communication News Archive, Machine Learning Engineer** — *Aug 2022 – Present, Los Angeles, CA*
   
-  Collaborated with Professor Tim Groeling on single-linkage clustering to detect show boundaries in UCLA’s Rosenthal News Collection. Also developed a transcription and translation pipeline for multilingual news for use in linguistics and public policy.
+  Textual single-linkage clustering - Transcription and translation pipeline for multilingual news for use in linguistics and public policy
 
 * **UCLA Paris Labs, Stochastic Optimization Researcher** — *Oct 2020 – Jun 2022, Los Angeles, CA*
   
-  Research with Professor Mathieu Bauchy involving ML and stochastic optimization for amorphous materials. Built a particle swarm optimizer with simulated annealing to generate glass compositions with specified properties.
+  Stochastic optimization for amorphous materials - Gradient boosted particle swarm optimizer
 
 Industry Experience
 ======
 * **Google, Summer of Code Participant** — *May 2024 – Aug 2024, Los Angeles, CA*
   
-  Used deep reinforcement learning and quantum circuits to model the probabilistic behavior of *Stentor Roseli*. Developed a quantum circuit to simulate protist decision making with 93% accuracy. Implemented and tested DQN variants using OpenAI Gym.
+  Modeling the probabilistic behavior of *Stentor Roseli* - Developed a quantum circuit to simulate protist decision making
 
 * **UBS, Wealth Management / Data Analyst Intern** — *Dec 2022 – Apr 2024, Los Angeles, CA*
   
-  Built NLP pipelines to scrape news articles for client prospects. Developed decision tree-based models to rank prospects by fit.
+  Built NLP pipelines to scrape news articles for client prospects - Developed decision tree-based models to rank prospects by fit.
 
 * **Sentient.io, Machine Learning Researcher** — *Jul 2022 – Jan 2023, Singapore*
   
