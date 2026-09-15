@@ -20,18 +20,23 @@ Education
 Research
 ======
 * **NSF, Operations Research and AI (ORAI) Fellow** — *Feb 2026 – Present, Los Angeles, CA*
+
   Convex relaxations of integer programs - Integer distributionally robust optimization - Decision Focused Learning
 
 * **Capital One, Research Fellow** — *Dec 2024 – May 2026, Los Angeles, CA*
+
   Mixed Integer Programming - Tight Lagrangian Relaxations - Multi Touch Attribution
 
 * **Institute of Pure and Applied Mathematics (IPAM), Quantum Algorithms Researcher** — *Jun 2024 – August 2024, Los Angeles, CA*
+
   Research in Industrial Projects (RIPS) - In Collaboration with NASA Ames - Classical Simulation of Quantum Circuits - Modeling Quantum Kraus Noise
 
 * **Red Hen Labs, Optimal Control Researcher** — *Mar 2023 – May 2024, Los Angeles, CA*
+
   * Model Predictive Control - Quantum Decision Making in Protists - Modeling Trust Based Market Places
   
 * **KAUST, NUMPDE Lab, Mixed Finite Elements Researcher** — *Apr 2023 – Jul 2023, Jeddah, Saudi Arabia*
+
   - Numerical approximation of PDEs using mixed finite element methods - Fluid structure interaction problems
 
 * **UCLA Communication News Archive, Machine Learning Engineer** — *Aug 2022 – Present, Los Angeles, CA*
